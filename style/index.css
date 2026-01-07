@@ -1,0 +1,22 @@
+div{
+    background-color: rgb(194, 231, 231);
+    margin-bottom: 100px;
+    margin-left: 300px;
+    padding-left: 400px;
+    padding-top: 10px;
+    border-radius: 20px;
+    border: 50%;
+    border-bottom: 10px dotted white;
+    border-top: 10px dotted white;
+    border-right: 10px solid brown;
+    border-left: 10px solid brown;
+    width: 50%;
+}
+h1{
+    color: green;
+}
+p{
+    color: blue;
+    text-emphasis-position: initial;
+
+}
